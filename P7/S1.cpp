@@ -17,7 +17,7 @@ int main()
 void findSqrt(int number)
 {
 
-    float temp, sqrt;
+    double temp, sqrt;
     sqrt = number / 2;
     temp = 0;
 
